@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Basketball Average Shot Calculator</string>
+    <string name="textViewMade">Shots Scored:</string>
+    <string name="textViewTwoPointers">Two Pointers</string>
+    <string name="textViewThreePointers">Three Pointers</string>
+    <string name="textViewRebound">Rebounds:</string>
+    <string name="editTextMade">0</string>
+    <string name="editTextRebound">0</string>
+    <string name="textViewAVGMadeLBL">AVG Made:</string>
+    <string name="textViewAVGReboundLBL">AVG Rebound:</string>
+    <string name="textViewTotalLBL">Total Attempted Shots:</string>
+    <string name="textViewTotalShotsMade">Total Shots Made:</string>
+    <string name="textViewTotalPoints">Total Points:</string>
+    <string name="textViewMadeZeroLBL">0</string>
+    <string name="textViewReboundZeroLBL">0</string>
+    <string name="textViewTotalZeroLBL">0</string>
+    <string name="textViewTotalPointsZeroLBL">0</string>
+    <string name="textViewTotalShotsMadeZeroLBL">0</string>
+    <string name="zero">0</string>
+    <string name="submit">Submit</string>
+
+</resources>
